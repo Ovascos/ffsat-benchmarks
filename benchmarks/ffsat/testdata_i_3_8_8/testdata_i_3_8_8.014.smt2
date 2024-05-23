@@ -1,6 +1,6 @@
 
 (set-info :smt-lib-version 2.6)
-(set-logic QF_FF)
+(set-logic QF_FFA)
 (define-sort FF0 () (_ FiniteField 3))
 (declare-fun x0 () FF0)
 (declare-fun x1 () FF0)

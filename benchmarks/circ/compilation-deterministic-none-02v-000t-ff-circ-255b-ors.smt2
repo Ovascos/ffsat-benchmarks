@@ -1,6 +1,6 @@
 (set-info :smt-lib-version 2.6)
 (set-info :category "crafted")
-(set-logic QF_FF)
+(set-logic QF_FFA)
 (define-sort FF0 () (_ FiniteField 52435875175126190479447740508185965837690552500527637822603658699938581184513))
 (declare-fun return_n0_alt () FF0)
 (declare-fun x1_n2_alt () FF0)

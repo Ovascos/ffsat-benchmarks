@@ -1,6 +1,6 @@
 (set-info :smt-lib-version 2.6)
 (set-info :category "crafted")
-(set-logic QF_FF)
+(set-logic QF_FFA)
 (define-sort FF0 () (_ FiniteField 576460752303423619))
 (declare-fun b () Bool)
 (declare-fun d () Bool)
